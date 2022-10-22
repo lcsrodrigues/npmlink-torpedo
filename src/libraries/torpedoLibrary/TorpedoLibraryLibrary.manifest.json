@@ -1,0 +1,9 @@
+{
+  "id": "ea4db8f1-1e99-4f34-b983-d6d783a9dc6d",
+  "alias": "TorpedoLibraryLibrary",
+  "componentType": "Library",
+
+  // The "*" signifies that the version should be taken from the package.json
+  "version": "*",
+  "manifestVersion": 2
+}

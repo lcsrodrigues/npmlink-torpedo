@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "torpedo-library",
+    "libraryId": "89147e47-054e-420f-973d-ce5f8f5fc3c2",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "torpedo-library",
+    "solutionShortDescription": "torpedo-library description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "library"
+  }
+}
